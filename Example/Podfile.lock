@@ -1,0 +1,16 @@
+PODS:
+  - CocoaFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - CocoaFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaFirstPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CocoaFirstPod: 6b904b6762d33cf1966a2330210c469c25a41cfe
+
+PODFILE CHECKSUM: 06cd77ba0543f57d9fa361238761b155d9c9772f
+
+COCOAPODS: 1.3.1
